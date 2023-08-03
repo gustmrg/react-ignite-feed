@@ -16,8 +16,8 @@ export function Post() {
         </div>
 
         <time
-          title="1o de Agosto de 2023 às 23h01"
-          dateTime="2023-08-01 23:03:42"
+          title="02 de Agosto de 2023 às 21h23"
+          dateTime="2023-08-02 21:23:47"
         >
           Publicado há 1h
         </time>
@@ -37,6 +37,16 @@ export function Post() {
           <a href="">#rocketseat</a>
         </p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe seu feedback</strong>
+
+        <textarea />
+
+        <footer>
+          <button type="submit">Publicar</button>
+        </footer>
+      </form>
     </article>
   );
 }
