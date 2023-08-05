@@ -45,7 +45,7 @@ const posts = [
           "Cola lá no site da Rocketseat na trilha de ReactJS e vem aprender essa stack comigo",
       },
     ],
-    publishedAt: new Date("2023-08-05 11:39:33"),
+    publishedAt: new Date("2023-08-04 11:39:33"),
   },
 ];
 
