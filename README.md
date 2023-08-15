@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ignite Feed Screenshot" src="" width="100%">
+  <img alt="Ignite Feed Screenshot" src="https://github.com/gustmrg/react-ignite-feed/blob/main/img/ignite-feed.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
